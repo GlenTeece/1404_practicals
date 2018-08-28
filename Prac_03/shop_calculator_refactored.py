@@ -9,4 +9,3 @@ for i in range(number_of_items):
 print("Total price for "+str(number_of_items)+" item/s is "+str(total_cost))
 
 def item_combiner():
-    
