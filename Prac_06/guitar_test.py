@@ -1,7 +1,7 @@
 from Prac_06.guitar import Guitar
 
-my_gibson = Guitar("Gibson L-5 CES",1922,16035.40)
-my_fender = Guitar("Example Fender",1996,1500.40)
+my_gibson = Guitar("Gibson L-5 CES", 1922, 16035.40)
+my_fender = Guitar("Example Fender", 1996, 1500.40)
 
 print("Testing")
 print(my_gibson)

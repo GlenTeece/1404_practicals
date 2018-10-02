@@ -1,5 +1,7 @@
 from Prac_06.guitar import Guitar
+
 MENU = "Would you like to:\n(A)dd a guitar\n(L)ist guitars\n(Q)uit"
+
 
 def main():
     guitars = []
@@ -24,4 +26,6 @@ def main():
             print("Invalid Option")
         print(MENU)
         choice = input(">>> ").upper()
+
+
 main()
